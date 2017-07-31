@@ -14,11 +14,11 @@ cd到musicImgSpider.py的目录，在终端输入【images_keyword你需要此�
  python3 musicImgSpider.py images_keyword
 ```
 
-![](https://github.com/WymanLyu/ImageSpider/blob/master/Images/result.png) 
+![](https://github.com/WymanLyu/ImageSpider/blob/master/Images/keyword.png) 
 
 * 根据关键词生成目录，并存放爬取的所有原图URL
 
-![](https://github.com/WymanLyu/PitchDetector/blob/master/Images/pitchTest.gif) 
+![](https://github.com/WymanLyu/ImageSpider/blob/master/Images/result.png) 
 
 * 根据txt文件利用其它下载器下载【迅雷等...这里的下载源码已去除，因为慢。。。需要多线程,断点下载，有好用的下载器就没必要写了。。。】
 
