@@ -6,7 +6,7 @@ https://unsplash.com 图片资源爬虫
 
 * 安装 python3
 
-![](https://github.com/WymanLyu/PitchDetector/blob/master/Images/pitchTest.gif) 
+![](https://github.com/WymanLyu/ImageSpider/blob/master/Images/python3.png) 
 
 cd到musicImgSpider.py的目录，在终端输入【images_keyword你需要此网站的keyword】：
 
@@ -14,7 +14,7 @@ cd到musicImgSpider.py的目录，在终端输入【images_keyword你需要此�
  python3 musicImgSpider.py images_keyword
 ```
 
-![](https://github.com/WymanLyu/PitchDetector/blob/master/Images/pitchTest.gif) 
+![](https://github.com/WymanLyu/ImageSpider/blob/master/Images/result.png) 
 
 * 根据关键词生成目录，并存放爬取的所有原图URL
 
